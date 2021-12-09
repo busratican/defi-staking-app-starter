@@ -44,5 +44,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "license": "ISC"
 }
